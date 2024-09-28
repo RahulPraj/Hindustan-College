@@ -1,5 +1,5 @@
 //for-each
-let arr = ['sam' , 'samarth' , 'vohra' , 'cb' , 'js'];
+let arr = ['raj' , 'diya' , 'kumar' , 'hello' , 'js'];
 
 arr.forEach(function(item , index ){
     console.log(`${item} is at index: ${index}`)
